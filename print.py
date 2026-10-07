@@ -1,0 +1,5 @@
+print("Today we will be learning Python")
+print("My name is Alisha")
+print("I study in grade 7")
+print("I like to play video games,basketball and football")
+print("contact me from my phone number at",1234567890)
